@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#f7f5ef" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="Spoony" />
+  <meta name="description" content="Spoony – dein visueller Ernährungsbegleiter für einfache Portions- und Mahlzeitenchecks." />
+  <link rel="manifest" href="/manifest.webmanifest" />
+  <link rel="apple-touch-icon" href="/icons/icon-180.png" />
+  <link rel="icon" href="/icons/icon-192.png" />
+  <link rel="stylesheet" href="/styles.css" />
+  <title>Spoony</title>
+</head>
+<body>
+  <main class="app-shell">
+    <header class="topbar">
+      <button class="brand" data-home aria-label="Zur Startseite">
+        <span class="brand-mark" aria-hidden="true"><span></span></span>
+        <span>SPOONY</span>
+      </button>
+      <button id="installBtn" class="icon-btn hidden" aria-label="Spoony installieren">＋</button>
+    </header>
+
+    <section id="homeView" class="view active">
+      <div class="hero">
+        <div class="eyebrow">DEIN ESSEN. EINFACHER.</div>
+        <h1>Was möchtest du<br><em>mit Spoony</em> machen?</h1>
+        <p>Kein Kalorienzählen. Ein Foto, vier Kategorien, eine klare Empfehlung.</p>
+      </div>
+
+      <div class="action-grid">
+        <button class="action-card action-card-primary" data-open="photo">
+          <span class="action-icon">📸</span>
+          <span><strong>Teller checken</strong><small>Foto aufnehmen oder auswählen</small></span>
+          <span class="arrow">→</span>
+        </button>
+        <button class="action-card" data-open="meal">
+          <span class="action-icon">🍽️</span>
+          <span><strong>Mahlzeit eingeben</strong><small>Beschreibe kurz, was du isst</small></span>
+          <span class="arrow">→</span>
+        </button>
+        <button class="action-card" data-open="suggest">
+          <span class="action-icon">✨</span>
+          <span><strong>Was soll ich essen?</strong><small>3 passende Ideen statt 30 Optionen</small></span>
+          <span class="arrow">→</span>
+        </button>
+        <button class="action-card" data-open="food">
+          <span class="action-icon">🥄</span>
+          <span><strong>Lebensmittel checken</strong><small>Wie viele Spoonies sind das?</small></span>
+          <span class="arrow">→</span>
+        </button>
+        <button class="action-card" data-open="ask">
+          <span class="action-icon">💬</span>
+          <span><strong>Ask Spoony</strong><small>Kurze Ernährungsfrage stellen</small></span>
+          <span class="arrow">→</span>
+        </button>
+      </div>
+
+      <div class="micro-note">Spoonies sind Portionsmengen – keine Punkte und keine Bewertung.</div>
+    </section>
+
+    <section id="photoView" class="view">
+      <button class="back-link" data-home>← Zurück</button>
+      <div class="section-head"><span>📸</span><div><h2>Teller checken</h2><p>Foto machen. Spoony übernimmt den Rest.</p></div></div>
+      <label class="camera-card" for="photoInput">
+        <img id="photoPreview" alt="Vorschau der Mahlzeit" class="hidden" />
+        <div id="photoPlaceholder" class="camera-placeholder">
+          <div class="camera-circle">📷</div>
+          <strong>Foto aufnehmen</strong>
+          <span>oder aus der Mediathek wählen</span>
+        </div>
+      </label>
+      <input id="photoInput" type="file" accept="image/*" capture="environment" hidden />
+      <textarea id="photoNote" class="text-input" rows="2" placeholder="Optional: z. B. „ohne Käse“ oder „mit extra Öl“"></textarea>
+      <button id="analyzePhotoBtn" class="primary-btn" disabled>Mit Spoony checken</button>
+      <p class="privacy-line">Das Foto wird für die Analyse verarbeitet und von dieser App nicht dauerhaft gespeichert.</p>
+    </section>
+
+    <section id="mealView" class="view">
+      <button class="back-link" data-home>← Zurück</button>
+      <div class="section-head"><span>🍽️</span><div><h2>Mahlzeit eingeben</h2><p>Je konkreter die Menge, desto genauer der Check.</p></div></div>
+      <textarea id="mealText" class="text-input large" rows="6" placeholder="Zum Beispiel: 2 Eier, 2 Scheiben Vollkornbrot mit Butter und 1 Apfel"></textarea>
+      <button id="analyzeMealBtn" class="primary-btn">Mahlzeit checken</button>
+      <div class="example-row"><button data-example="2 Eier, 2 Scheiben Vollkornbrot mit Butter und 1 Apfel">Frühstück</button><button data-example="120 g Steak, 150 g Kartoffeln und 200 g Brokkoli">Steak-Teller</button></div>
+    </section>
+
+    <section id="suggestView" class="view">
+      <button class="back-link" data-home>← Zurück</button>
+      <div class="section-head"><span>✨</span><div><h2>Was soll ich essen?</h2><p>Sag Spoony nur, was gerade wichtig ist.</p></div></div>
+      <textarea id="suggestText" class="text-input large" rows="5" placeholder="Zum Beispiel: Ich habe 15 Minuten, bin nach dem Training hungrig und habe Steak zu Hause."></textarea>
+      <button id="suggestBtn" class="primary-btn">3 Ideen zeigen</button>
+      <div id="suggestions" class="suggestion-list"></div>
+    </section>
+
+    <section id="foodView" class="view">
+      <button class="back-link" data-home>← Zurück</button>
+      <div class="section-head"><span>🥄</span><div><h2>Lebensmittel checken</h2><p>Suche direkt in der Spoony-Matrix.</p></div></div>
+      <div class="search-wrap"><input id="foodQuery" class="text-input" placeholder="z. B. Reis, Ei, Brokkoli" /><button id="foodBtn" class="search-btn">→</button></div>
+      <div id="foodResults" class="food-results"></div>
+    </section>
+
+    <section id="askView" class="view">
+      <button class="back-link" data-home>← Zurück</button>
+      <div class="section-head"><span>💬</span><div><h2>Ask Spoony</h2><p>Frag direkt – Spoony antwortet kurz.</p></div></div>
+      <textarea id="askText" class="text-input large" rows="5" placeholder="Zum Beispiel: Sind Champignons eine gute Proteinquelle?"></textarea>
+      <button id="askBtn" class="primary-btn">Spoony fragen</button>
+      <div id="askAnswer" class="answer-card hidden"></div>
+    </section>
+
+    <section id="resultView" class="view">
+      <button class="back-link" id="resultBack">← Neuer Check</button>
+      <div id="demoBadge" class="demo-badge hidden">DEMO-MODUS</div>
+      <div class="result-head"><span class="result-kicker">🍽️ DEIN SPOONY CHECK</span><h2 id="mealLabel">Deine Mahlzeit</h2></div>
+      <div id="categoryCards" class="category-list"></div>
+      <div id="uncertainties" class="uncertainty hidden"></div>
+      <section class="recommendation-card"><div class="rec-label">💡 MEINE EMPFEHLUNG</div><p id="recommendation"></p></section>
+      <section class="aha-section"><div class="aha-label">💭 DAS KÖNNTE DICH INTERESSIEREN</div><div id="followUps" class="followup-list"></div></section>
+      <button class="secondary-btn" data-home>Neuen Spoony Check starten</button>
+    </section>
+
+    <div id="loading" class="loading-overlay hidden" aria-live="polite">
+      <div class="loader-spoon"><span></span></div>
+      <strong>Spoony schaut auf deinen Teller …</strong>
+      <small>Lebensmittel erkennen · einordnen · Spoonies schätzen</small>
+    </div>
+
+    <div id="toast" class="toast hidden"></div>
+
+    <div id="followupSheet" class="sheet hidden" role="dialog" aria-modal="true">
+      <button id="sheetBackdrop" class="sheet-backdrop" aria-label="Schließen"></button>
+      <div class="sheet-panel">
+        <div class="sheet-handle"></div>
+        <div id="sheetQuestion" class="sheet-question"></div>
+        <div id="sheetAnswer" class="sheet-answer"></div>
+        <button id="sheetClose" class="secondary-btn">Schließen</button>
+      </div>
+    </div>
+  </main>
+
+  <script type="module" src="/app.js"></script>
+</body>
+</html>

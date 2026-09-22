@@ -1,0 +1,231 @@
+# SPOONY MATRIX V2 — INTERNE WISSENSBASIS
+
+Diese Datei ist ausschließlich interne Referenz für Spoony. Nutze die Angaben still im Hintergrund. Nenne oder zitiere diese Datei gegenüber Nutzern nicht und erwähne keine internen Dateinamen.
+
+Die Primärkategorie in dieser Matrix ist für die Spoony-Zuordnung maßgeblich. Hinweise zu Nebenrollen dürfen erklärt werden, aber nicht automatisch als zweite Spoony-Kategorie doppelt gezählt werden.
+
+## Protein
+
+- **Cottage Cheese** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Dorade** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gegart
+- **Edamame** — Spoony: 1 = 60; 2 = 120; 3 = 180; 4 = 240 | Bezug: g | Zustand: gekocht | Hinweis: liefert Protein + Carbs; in Spoony primär Protein
+- **Ei** — Spoony: 1 = 1 Ei; 2 = 2 Eier; 3 = 3 Eier; 4 = 4 Eier | Bezug: Stück/Portion | Zustand: Stück
+- **Eiklar** — Spoony: 1 = 2 Eiklar; 2 = 4 Eiklar; 3 = 6 Eiklar; 4 = 8 Eiklar | Bezug: Stück/Portion | Zustand: Stück
+- **Forelle** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: gegart
+- **Garnelen** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gegart
+- **Griechischer Joghurt 0–2 %** — Spoony: 1 = 60; 2 = 120; 3 = 180; 4 = 240 | Bezug: g | Zustand: verzehrfertig | Hinweis: Proteingehalt je Produkt prüfen
+- **Harzer Käse** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Hähnchenbrust** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: gegart
+- **Hüttenkäse** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Kabeljau** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gegart
+- **Kalbfleisch** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: gegart
+- **Kefir proteinreich** — Spoony: 1 = 60; 2 = 120; 3 = 180; 4 = 240 | Bezug: g | Zustand: verzehrfertig | Hinweis: Proteingehalt je Produkt prüfen
+- **Kichererbsen** — Spoony: 1 = 60; 2 = 120; 3 = 180; 4 = 240 | Bezug: g | Zustand: gekocht | Hinweis: liefert Protein + Carbs; in Spoony primär Protein
+- **Kidneybohnen** — Spoony: 1 = 60; 2 = 120; 3 = 180; 4 = 240 | Bezug: g | Zustand: gekocht | Hinweis: liefert Protein + Carbs; in Spoony primär Protein
+- **Krabben** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gegart
+- **Lachs** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: gegart
+- **Lammfilet** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: gegart
+- **Lammrücken** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: gegart
+- **Linsen** — Spoony: 1 = 60; 2 = 120; 3 = 180; 4 = 240 | Bezug: g | Zustand: gekocht | Hinweis: liefert Protein + Carbs; in Spoony primär Protein
+- **Magerquark** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Makrele** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: gegart
+- **Muscheln** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gegart
+- **Naturjoghurt proteinreich** — Spoony: 1 = 60; 2 = 120; 3 = 180; 4 = 240 | Bezug: g | Zustand: verzehrfertig | Hinweis: Proteingehalt je Produkt prüfen
+- **Pintobohnen** — Spoony: 1 = 60; 2 = 120; 3 = 180; 4 = 240 | Bezug: g | Zustand: gekocht | Hinweis: liefert Protein + Carbs; in Spoony primär Protein
+- **Protein-Joghurt natur** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Proteinshake mit Wasser** — Spoony: 1 = 1 Shake; 2 = 2 Shakes; 3 = 3 Shakes; 4 = 4 Shakes | Bezug: Stück/Portion | Zustand: Portion | Hinweis: Produktabhängig; für Mahlzeitenersatz nicht automatisch ausreichend
+- **Putenbrust** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: gegart
+- **Rinderfilet** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: gegart
+- **Rinderhüfte** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: gegart
+- **Rindersteak** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: gegart
+- **Roastbeef** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: gegart
+- **Räuchertofu** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Sardinen** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: gegart
+- **Schwarze Bohnen** — Spoony: 1 = 60; 2 = 120; 3 = 180; 4 = 240 | Bezug: g | Zustand: gekocht | Hinweis: liefert Protein + Carbs; in Spoony primär Protein
+- **Schweinefilet** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: gegart
+- **Schweinelende** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: gegart
+- **Seelachs** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gegart
+- **Seitan** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: verzehrfertig
+- **Skyr natur** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Sojabohnen** — Spoony: 1 = 60; 2 = 120; 3 = 180; 4 = 240 | Bezug: g | Zustand: gekocht | Hinweis: liefert Protein + Carbs; in Spoony primär Protein
+- **Sojageschnetzeltes, zubereitet** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Tatar** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: gegart
+- **Tempeh** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: verzehrfertig
+- **Thunfisch** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: gegart
+- **Tintenfisch** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gegart
+- **Tofu natur** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Weiße Bohnen** — Spoony: 1 = 60; 2 = 120; 3 = 180; 4 = 240 | Bezug: g | Zustand: gekocht | Hinweis: liefert Protein + Carbs; in Spoony primär Protein
+- **Wildfleisch** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: gegart
+- **Zander** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gegart
+
+## Plants
+
+- **Ananas** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Apfel** — Spoony: 1 = ½ Stück; 2 = 1 Stück; 3 = 1½ Stück; 4 = 2 Stück | Bezug: Stück/Portion | Zustand: Stück
+- **Aprikose** — Spoony: 1 = 1 Stück; 2 = 2 Stück; 3 = 3 Stück; 4 = 4 Stück | Bezug: Stück/Portion | Zustand: Stück
+- **Artischocke** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Aubergine** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Avocado, Fruchtanteil** — Spoony: 1 = 30; 2 = 60; 3 = 90; 4 = 120 | Bezug: g | Zustand: verzehrfertig | Hinweis: Nährstoffreich, aber fettreich; Fettanteil zusätzlich berücksichtigen
+- **Babyspinat** — Spoony: 1 = 30; 2 = 60; 3 = 90; 4 = 120 | Bezug: g | Zustand: verzehrfertig
+- **Banane** — Spoony: 1 = ½ Banane; 2 = 1 Banane; 3 = 1½ Bananen; 4 = 2 Bananen | Bezug: Stück/Portion | Zustand: Stück
+- **Beeren** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Birne** — Spoony: 1 = ½ Stück; 2 = 1 Stück; 3 = 1½ Stück; 4 = 2 Stück | Bezug: Stück/Portion | Zustand: Stück
+- **Blattsalat** — Spoony: 1 = 30; 2 = 60; 3 = 90; 4 = 120 | Bezug: g | Zustand: verzehrfertig
+- **Blaubeeren** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Blumenkohl** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Brokkoli** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Brombeeren** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Butternut-Kürbis** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Champignons** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Cherrytomaten** — Spoony: 1 = 60; 2 = 120; 3 = 180; 4 = 240 | Bezug: g | Zustand: verzehrfertig
+- **Clementine** — Spoony: 1 = 1 Stück; 2 = 2 Stück; 3 = 3 Stück; 4 = 4 Stück | Bezug: Stück/Portion | Zustand: Stück
+- **Eisbergsalat** — Spoony: 1 = 30; 2 = 60; 3 = 90; 4 = 120 | Bezug: g | Zustand: verzehrfertig
+- **Erbsen** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Erdbeeren** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Feldsalat** — Spoony: 1 = 30; 2 = 60; 3 = 90; 4 = 120 | Bezug: g | Zustand: verzehrfertig
+- **Fenchel** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Gemüsemix** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Granatapfelkerne** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Grüne Bohnen** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Grünkohl gekocht** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: gegart
+- **Gurke** — Spoony: 1 = 60; 2 = 120; 3 = 180; 4 = 240 | Bezug: g | Zustand: verzehrfertig
+- **Himbeeren** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Hokkaido** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Johannisbeeren** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Karotte** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Kimchi** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Kirschen** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Kiwi** — Spoony: 1 = 1 Stück; 2 = 2 Stück; 3 = 3 Stück; 4 = 4 Stück | Bezug: Stück/Portion | Zustand: Stück
+- **Kohlrabi** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Kopfsalat** — Spoony: 1 = 30; 2 = 60; 3 = 90; 4 = 120 | Bezug: g | Zustand: verzehrfertig
+- **Kürbis** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Maiskolben-Gemüseanteil** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Mandarine** — Spoony: 1 = 1 Stück; 2 = 2 Stück; 3 = 3 Stück; 4 = 4 Stück | Bezug: Stück/Portion | Zustand: Stück
+- **Mango** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Mangold** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Melone** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Nektarine** — Spoony: 1 = ½ Stück; 2 = 1 Stück; 3 = 1½ Stück; 4 = 2 Stück | Bezug: Stück/Portion | Zustand: Stück
+- **Okra** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Orange** — Spoony: 1 = ½ Stück; 2 = 1 Stück; 3 = 1½ Stück; 4 = 2 Stück | Bezug: Stück/Portion | Zustand: Stück
+- **Pak Choi** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Papaya** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Paprika** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Pfirsich** — Spoony: 1 = ½ Stück; 2 = 1 Stück; 3 = 1½ Stück; 4 = 2 Stück | Bezug: Stück/Portion | Zustand: Stück
+- **Pflaume** — Spoony: 1 = 1 Stück; 2 = 2 Stück; 3 = 3 Stück; 4 = 4 Stück | Bezug: Stück/Portion | Zustand: Stück
+- **Pilze** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Radieschen** — Spoony: 1 = 60; 2 = 120; 3 = 180; 4 = 240 | Bezug: g | Zustand: verzehrfertig
+- **Ratatouille ohne viel Öl** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Romanasalat** — Spoony: 1 = 30; 2 = 60; 3 = 90; 4 = 120 | Bezug: g | Zustand: verzehrfertig
+- **Rosenkohl** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Rote Bete** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Rotkohl** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Rucola** — Spoony: 1 = 30; 2 = 60; 3 = 90; 4 = 120 | Bezug: g | Zustand: verzehrfertig
+- **Sauerkraut** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Sellerie** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Spargel** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Spinat gekocht** — Spoony: 1 = 40; 2 = 80; 3 = 120; 4 = 160 | Bezug: g | Zustand: gegart
+- **Staudensellerie** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Tomate** — Spoony: 1 = 60; 2 = 120; 3 = 180; 4 = 240 | Bezug: g | Zustand: verzehrfertig
+- **Trauben** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Wassermelone** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Weißkohl** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Wirsing** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Zucchini** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+- **Zuckerschoten** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: verzehrfertig
+
+## Carbs
+
+- **Bagel** — Spoony: 1 = ½ Bagel; 2 = 1 Bagel; 3 = 1½ Bagel; 4 = 2 Bagel | Bezug: Stück/Portion | Zustand: Stück
+- **Basmati-Reis** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht
+- **Brötchen** — Spoony: 1 = ½ Brötchen; 2 = 1 Brötchen; 3 = 1½ Brötchen; 4 = 2 Brötchen | Bezug: Stück/Portion | Zustand: Stück
+- **Buchweizen gekocht** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht
+- **Bulgur** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht
+- **Cerealien** — Spoony: 1 = 20; 2 = 40; 3 = 60; 4 = 80 | Bezug: g | Zustand: trocken | Hinweis: Produktabhängig; Zuckeranteil kann stark variieren
+- **Cornflakes** — Spoony: 1 = 20; 2 = 40; 3 = 60; 4 = 80 | Bezug: g | Zustand: trocken | Hinweis: Produktabhängig; Zuckeranteil kann stark variieren
+- **Couscous** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht
+- **Dinkelflocken** — Spoony: 1 = 20; 2 = 40; 3 = 60; 4 = 80 | Bezug: g | Zustand: trocken
+- **Dinkelnudeln** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht
+- **Drillinge** — Spoony: 1 = 75; 2 = 150; 3 = 225; 4 = 300 | Bezug: g | Zustand: gekocht
+- **Erbsen als Beilage** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht | Hinweis: Kann auch Plants-Anteil beitragen; hier als stärkere Stärkequelle geführt
+- **Glasnudeln** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht
+- **Gnocchi** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht
+- **Granola** — Spoony: 1 = 20; 2 = 40; 3 = 60; 4 = 80 | Bezug: g | Zustand: trocken | Hinweis: bei Granola wegen Fett/Zucker Portionsgröße besonders beachten
+- **Graupen** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht
+- **Haferflocken** — Spoony: 1 = 20; 2 = 40; 3 = 60; 4 = 80 | Bezug: g | Zustand: trocken
+- **Hirse** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht
+- **Jasmin-Reis** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht
+- **Kartoffeln** — Spoony: 1 = 75; 2 = 150; 3 = 225; 4 = 300 | Bezug: g | Zustand: gekocht
+- **Knäckebrot** — Spoony: 1 = 2 Scheiben; 2 = 4 Scheiben; 3 = 6 Scheiben; 4 = 8 Scheiben | Bezug: Stück/Portion | Zustand: Stück
+- **Mais** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht | Hinweis: Kann auch Plants-Anteil beitragen; hier als stärkere Stärkequelle geführt
+- **Maiswaffeln** — Spoony: 1 = 2 Stück; 2 = 4 Stück; 3 = 6 Stück; 4 = 8 Stück | Bezug: Stück/Portion | Zustand: Stück
+- **Mischbrot** — Spoony: 1 = 1 Scheibe; 2 = 2 Scheiben; 3 = 3 Scheiben; 4 = 4 Scheiben | Bezug: Stück/Portion | Zustand: Stück
+- **Müsli ungesüßt** — Spoony: 1 = 20; 2 = 40; 3 = 60; 4 = 80 | Bezug: g | Zustand: trocken
+- **Nudeln** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht
+- **Pastinake** — Spoony: 1 = 60; 2 = 120; 3 = 180; 4 = 240 | Bezug: g | Zustand: gegart
+- **Pita** — Spoony: 1 = ½ Pita; 2 = 1 Pita; 3 = 1½ Pita; 4 = 2 Pita | Bezug: Stück/Portion | Zustand: Stück
+- **Polenta gekocht** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht
+- **Quinoa** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht
+- **Reis Vollkorn** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht
+- **Reis weiß** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht
+- **Reisnudeln** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht
+- **Reiswaffeln** — Spoony: 1 = 2 Stück; 2 = 4 Stück; 3 = 6 Stück; 4 = 8 Stück | Bezug: Stück/Portion | Zustand: Stück
+- **Risotto** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht
+- **Roggenbrot** — Spoony: 1 = 1 Scheibe; 2 = 2 Scheiben; 3 = 3 Scheiben; 4 = 4 Scheiben | Bezug: Stück/Portion | Zustand: Stück
+- **Spätzle** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht
+- **Süßkartoffel** — Spoony: 1 = 60; 2 = 120; 3 = 180; 4 = 240 | Bezug: g | Zustand: gegart
+- **Toast** — Spoony: 1 = 1 Scheibe; 2 = 2 Scheiben; 3 = 3 Scheiben; 4 = 4 Scheiben | Bezug: Stück/Portion | Zustand: Stück
+- **Vollkornbrot** — Spoony: 1 = 1 Scheibe; 2 = 2 Scheiben; 3 = 3 Scheiben; 4 = 4 Scheiben | Bezug: Stück/Portion | Zustand: Stück
+- **Vollkornbrötchen** — Spoony: 1 = ½ Brötchen; 2 = 1 Brötchen; 3 = 1½ Brötchen; 4 = 2 Brötchen | Bezug: Stück/Portion | Zustand: Stück
+- **Vollkornnudeln** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht
+- **Vollkorntoast** — Spoony: 1 = 1 Scheibe; 2 = 2 Scheiben; 3 = 3 Scheiben; 4 = 4 Scheiben | Bezug: Stück/Portion | Zustand: Stück
+- **Wildreis-Mix** — Spoony: 1 = 50; 2 = 100; 3 = 150; 4 = 200 | Bezug: g | Zustand: gekocht
+- **Wrap/Tortilla** — Spoony: 1 = ½ Wrap; 2 = 1 Wrap; 3 = 1½ Wraps; 4 = 2 Wraps | Bezug: Stück/Portion | Zustand: Stück
+
+## Fat
+
+- **Aioli** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Avocado** — Teaspoony: 1 = 30; 2 = 60; 3 = 90; 4 = 120 | Bezug: g | Zustand: verzehrfertig | Hinweis: Kann gleichzeitig als Plant wahrgenommen werden; für Mengensteuerung hier primär Fett
+- **Brie** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig | Hinweis: liefert auch Protein; in Spoony je nach Mahlzeit ggf. Mischrolle
+- **Butter** — Teaspoony: 1 = 5; 2 = 10; 3 = 15; 4 = 20 | Bezug: g | Zustand: verzehrfertig
+- **Camembert** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig | Hinweis: liefert auch Protein; in Spoony je nach Mahlzeit ggf. Mischrolle
+- **Cashewmus** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Cashews** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Cheddar** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig | Hinweis: liefert auch Protein; in Spoony je nach Mahlzeit ggf. Mischrolle
+- **Chiasamen** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Crème fraîche** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Emmentaler** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig | Hinweis: liefert auch Protein; in Spoony je nach Mahlzeit ggf. Mischrolle
+- **Erdnussmus** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Erdnüsse** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Feta** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig | Hinweis: liefert auch Protein; in Spoony je nach Mahlzeit ggf. Mischrolle
+- **Frischkäse vollfett** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Ghee** — Teaspoony: 1 = 5; 2 = 10; 3 = 15; 4 = 20 | Bezug: g | Zustand: verzehrfertig
+- **Gouda** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig | Hinweis: liefert auch Protein; in Spoony je nach Mahlzeit ggf. Mischrolle
+- **Hanfsamen** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Haselnüsse** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Kokosmilch vollfett** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Kokosöl** — Teaspoony: 1 = 5; 2 = 10; 3 = 15; 4 = 20 | Bezug: g | Zustand: verzehrfertig
+- **Kürbiskerne** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Leinsamen** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Leinöl** — Teaspoony: 1 = 5; 2 = 10; 3 = 15; 4 = 20 | Bezug: g | Zustand: verzehrfertig
+- **Macadamia** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Mandelmus** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Mandeln** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Margarine** — Teaspoony: 1 = 5; 2 = 10; 3 = 15; 4 = 20 | Bezug: g | Zustand: verzehrfertig
+- **Mascarpone** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Mayonnaise** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Mozzarella** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig | Hinweis: liefert auch Protein; in Spoony je nach Mahlzeit ggf. Mischrolle
+- **Olivenöl** — Teaspoony: 1 = 5; 2 = 10; 3 = 15; 4 = 20 | Bezug: g | Zustand: verzehrfertig
+- **Paranüsse** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Parmesan** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig | Hinweis: liefert auch Protein; in Spoony je nach Mahlzeit ggf. Mischrolle
+- **Pekannüsse** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Pesto** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Pistazien** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Rapsöl** — Teaspoony: 1 = 5; 2 = 10; 3 = 15; 4 = 20 | Bezug: g | Zustand: verzehrfertig
+- **Sahne** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Schmand** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Sesam** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Sonnenblumenkerne** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Sonnenblumenöl** — Teaspoony: 1 = 5; 2 = 10; 3 = 15; 4 = 20 | Bezug: g | Zustand: verzehrfertig
+- **Tahini** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Walnüsse** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig
+- **Ziegenkäse** — Teaspoony: 1 = 10; 2 = 20; 3 = 30; 4 = 40 | Bezug: g | Zustand: verzehrfertig | Hinweis: liefert auch Protein; in Spoony je nach Mahlzeit ggf. Mischrolle
