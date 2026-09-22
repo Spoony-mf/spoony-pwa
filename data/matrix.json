@@ -1,1 +1,6425 @@
-
+{
+  "version": "2.1-pwa",
+  "items": [
+    {
+      "name": "Cottage Cheese",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Dorade",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Edamame",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 180.0,
+          "kind": "g",
+          "label": "180"
+        },
+        {
+          "value": 240.0,
+          "kind": "g",
+          "label": "240"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": "liefert Protein + Carbs; in Spoony primär Protein"
+    },
+    {
+      "name": "Ei",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Ei"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Eier"
+        },
+        {
+          "value": 3.0,
+          "kind": "piece",
+          "label": "3 Eier"
+        },
+        {
+          "value": 4.0,
+          "kind": "piece",
+          "label": "4 Eier"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Eiklar",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Eiklar"
+        },
+        {
+          "value": 4.0,
+          "kind": "piece",
+          "label": "4 Eiklar"
+        },
+        {
+          "value": 6.0,
+          "kind": "piece",
+          "label": "6 Eiklar"
+        },
+        {
+          "value": 8.0,
+          "kind": "piece",
+          "label": "8 Eiklar"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Forelle",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Garnelen",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Griechischer Joghurt 0–2 %",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 180.0,
+          "kind": "g",
+          "label": "180"
+        },
+        {
+          "value": 240.0,
+          "kind": "g",
+          "label": "240"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": "Proteingehalt je Produkt prüfen"
+    },
+    {
+      "name": "Harzer Käse",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Hähnchenbrust",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Hüttenkäse",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Kabeljau",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Kalbfleisch",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Kefir proteinreich",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 180.0,
+          "kind": "g",
+          "label": "180"
+        },
+        {
+          "value": 240.0,
+          "kind": "g",
+          "label": "240"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": "Proteingehalt je Produkt prüfen"
+    },
+    {
+      "name": "Kichererbsen",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 180.0,
+          "kind": "g",
+          "label": "180"
+        },
+        {
+          "value": 240.0,
+          "kind": "g",
+          "label": "240"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": "liefert Protein + Carbs; in Spoony primär Protein"
+    },
+    {
+      "name": "Kidneybohnen",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 180.0,
+          "kind": "g",
+          "label": "180"
+        },
+        {
+          "value": 240.0,
+          "kind": "g",
+          "label": "240"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": "liefert Protein + Carbs; in Spoony primär Protein"
+    },
+    {
+      "name": "Krabben",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Lachs",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Lammfilet",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Lammrücken",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Linsen",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 180.0,
+          "kind": "g",
+          "label": "180"
+        },
+        {
+          "value": 240.0,
+          "kind": "g",
+          "label": "240"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": "liefert Protein + Carbs; in Spoony primär Protein"
+    },
+    {
+      "name": "Magerquark",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Makrele",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Muscheln",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Naturjoghurt proteinreich",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 180.0,
+          "kind": "g",
+          "label": "180"
+        },
+        {
+          "value": 240.0,
+          "kind": "g",
+          "label": "240"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": "Proteingehalt je Produkt prüfen"
+    },
+    {
+      "name": "Pintobohnen",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 180.0,
+          "kind": "g",
+          "label": "180"
+        },
+        {
+          "value": 240.0,
+          "kind": "g",
+          "label": "240"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": "liefert Protein + Carbs; in Spoony primär Protein"
+    },
+    {
+      "name": "Protein-Joghurt natur",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Proteinshake mit Wasser",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Shake"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Shakes"
+        },
+        {
+          "value": 3.0,
+          "kind": "piece",
+          "label": "3 Shakes"
+        },
+        {
+          "value": 4.0,
+          "kind": "piece",
+          "label": "4 Shakes"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Portion",
+      "note": "Produktabhängig; für Mahlzeitenersatz nicht automatisch ausreichend"
+    },
+    {
+      "name": "Putenbrust",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Rinderfilet",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Rinderhüfte",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Rindersteak",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Roastbeef",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Räuchertofu",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Sardinen",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Schwarze Bohnen",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 180.0,
+          "kind": "g",
+          "label": "180"
+        },
+        {
+          "value": 240.0,
+          "kind": "g",
+          "label": "240"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": "liefert Protein + Carbs; in Spoony primär Protein"
+    },
+    {
+      "name": "Schweinefilet",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Schweinelende",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Seelachs",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Seitan",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Skyr natur",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Sojabohnen",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 180.0,
+          "kind": "g",
+          "label": "180"
+        },
+        {
+          "value": 240.0,
+          "kind": "g",
+          "label": "240"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": "liefert Protein + Carbs; in Spoony primär Protein"
+    },
+    {
+      "name": "Sojageschnetzeltes, zubereitet",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Tatar",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Tempeh",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Thunfisch",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Tintenfisch",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Tofu natur",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Weiße Bohnen",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 180.0,
+          "kind": "g",
+          "label": "180"
+        },
+        {
+          "value": 240.0,
+          "kind": "g",
+          "label": "240"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": "liefert Protein + Carbs; in Spoony primär Protein"
+    },
+    {
+      "name": "Wildfleisch",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Zander",
+      "category": "Protein",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Ananas",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Apfel",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 0.5,
+          "kind": "piece",
+          "label": "½ Stück"
+        },
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Stück"
+        },
+        {
+          "value": 1.5,
+          "kind": "piece",
+          "label": "1½ Stück"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Stück"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Aprikose",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Stück"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Stück"
+        },
+        {
+          "value": 3.0,
+          "kind": "piece",
+          "label": "3 Stück"
+        },
+        {
+          "value": 4.0,
+          "kind": "piece",
+          "label": "4 Stück"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Artischocke",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Aubergine",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Avocado, Fruchtanteil",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 90.0,
+          "kind": "g",
+          "label": "90"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": "Nährstoffreich, aber fettreich; Fettanteil zusätzlich berücksichtigen"
+    },
+    {
+      "name": "Babyspinat",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 90.0,
+          "kind": "g",
+          "label": "90"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Banane",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 0.5,
+          "kind": "piece",
+          "label": "½ Banane"
+        },
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Banane"
+        },
+        {
+          "value": 1.5,
+          "kind": "piece",
+          "label": "1½ Bananen"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Bananen"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Beeren",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Birne",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 0.5,
+          "kind": "piece",
+          "label": "½ Stück"
+        },
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Stück"
+        },
+        {
+          "value": 1.5,
+          "kind": "piece",
+          "label": "1½ Stück"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Stück"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Blattsalat",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 90.0,
+          "kind": "g",
+          "label": "90"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Blaubeeren",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Blumenkohl",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Brokkoli",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Brombeeren",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Butternut-Kürbis",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Champignons",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Cherrytomaten",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 180.0,
+          "kind": "g",
+          "label": "180"
+        },
+        {
+          "value": 240.0,
+          "kind": "g",
+          "label": "240"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Clementine",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Stück"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Stück"
+        },
+        {
+          "value": 3.0,
+          "kind": "piece",
+          "label": "3 Stück"
+        },
+        {
+          "value": 4.0,
+          "kind": "piece",
+          "label": "4 Stück"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Eisbergsalat",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 90.0,
+          "kind": "g",
+          "label": "90"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Erbsen",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Erdbeeren",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Feldsalat",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 90.0,
+          "kind": "g",
+          "label": "90"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Fenchel",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Gemüsemix",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Granatapfelkerne",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Grüne Bohnen",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Grünkohl gekocht",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Gurke",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 180.0,
+          "kind": "g",
+          "label": "180"
+        },
+        {
+          "value": 240.0,
+          "kind": "g",
+          "label": "240"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Himbeeren",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Hokkaido",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Johannisbeeren",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Karotte",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Kimchi",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Kirschen",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Kiwi",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Stück"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Stück"
+        },
+        {
+          "value": 3.0,
+          "kind": "piece",
+          "label": "3 Stück"
+        },
+        {
+          "value": 4.0,
+          "kind": "piece",
+          "label": "4 Stück"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Kohlrabi",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Kopfsalat",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 90.0,
+          "kind": "g",
+          "label": "90"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Kürbis",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Maiskolben-Gemüseanteil",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Mandarine",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Stück"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Stück"
+        },
+        {
+          "value": 3.0,
+          "kind": "piece",
+          "label": "3 Stück"
+        },
+        {
+          "value": 4.0,
+          "kind": "piece",
+          "label": "4 Stück"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Mango",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Mangold",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Melone",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Nektarine",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 0.5,
+          "kind": "piece",
+          "label": "½ Stück"
+        },
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Stück"
+        },
+        {
+          "value": 1.5,
+          "kind": "piece",
+          "label": "1½ Stück"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Stück"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Okra",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Orange",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 0.5,
+          "kind": "piece",
+          "label": "½ Stück"
+        },
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Stück"
+        },
+        {
+          "value": 1.5,
+          "kind": "piece",
+          "label": "1½ Stück"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Stück"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Pak Choi",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Papaya",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Paprika",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Pfirsich",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 0.5,
+          "kind": "piece",
+          "label": "½ Stück"
+        },
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Stück"
+        },
+        {
+          "value": 1.5,
+          "kind": "piece",
+          "label": "1½ Stück"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Stück"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Pflaume",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Stück"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Stück"
+        },
+        {
+          "value": 3.0,
+          "kind": "piece",
+          "label": "3 Stück"
+        },
+        {
+          "value": 4.0,
+          "kind": "piece",
+          "label": "4 Stück"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Pilze",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Radieschen",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 180.0,
+          "kind": "g",
+          "label": "180"
+        },
+        {
+          "value": 240.0,
+          "kind": "g",
+          "label": "240"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Ratatouille ohne viel Öl",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Romanasalat",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 90.0,
+          "kind": "g",
+          "label": "90"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Rosenkohl",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Rote Bete",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Rotkohl",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Rucola",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 90.0,
+          "kind": "g",
+          "label": "90"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Sauerkraut",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Sellerie",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Spargel",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Spinat gekocht",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 160.0,
+          "kind": "g",
+          "label": "160"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Staudensellerie",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Tomate",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 180.0,
+          "kind": "g",
+          "label": "180"
+        },
+        {
+          "value": 240.0,
+          "kind": "g",
+          "label": "240"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Trauben",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Wassermelone",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Weißkohl",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Wirsing",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Zucchini",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Zuckerschoten",
+      "category": "Plants",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Bagel",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 0.5,
+          "kind": "piece",
+          "label": "½ Bagel"
+        },
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Bagel"
+        },
+        {
+          "value": 1.5,
+          "kind": "piece",
+          "label": "1½ Bagel"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Bagel"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Basmati-Reis",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Brötchen",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 0.5,
+          "kind": "piece",
+          "label": "½ Brötchen"
+        },
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Brötchen"
+        },
+        {
+          "value": 1.5,
+          "kind": "piece",
+          "label": "1½ Brötchen"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Brötchen"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Buchweizen gekocht",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Bulgur",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Cerealien",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        }
+      ],
+      "reference": "g",
+      "state": "trocken",
+      "note": "Produktabhängig; Zuckeranteil kann stark variieren"
+    },
+    {
+      "name": "Cornflakes",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        }
+      ],
+      "reference": "g",
+      "state": "trocken",
+      "note": "Produktabhängig; Zuckeranteil kann stark variieren"
+    },
+    {
+      "name": "Couscous",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Dinkelflocken",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        }
+      ],
+      "reference": "g",
+      "state": "trocken",
+      "note": ""
+    },
+    {
+      "name": "Dinkelnudeln",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Drillinge",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 75.0,
+          "kind": "g",
+          "label": "75"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 225.0,
+          "kind": "g",
+          "label": "225"
+        },
+        {
+          "value": 300.0,
+          "kind": "g",
+          "label": "300"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Erbsen als Beilage",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": "Kann auch Plants-Anteil beitragen; hier als stärkere Stärkequelle geführt"
+    },
+    {
+      "name": "Glasnudeln",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Gnocchi",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Granola",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        }
+      ],
+      "reference": "g",
+      "state": "trocken",
+      "note": "bei Granola wegen Fett/Zucker Portionsgröße besonders beachten"
+    },
+    {
+      "name": "Graupen",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Haferflocken",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        }
+      ],
+      "reference": "g",
+      "state": "trocken",
+      "note": ""
+    },
+    {
+      "name": "Hirse",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Jasmin-Reis",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Kartoffeln",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 75.0,
+          "kind": "g",
+          "label": "75"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 225.0,
+          "kind": "g",
+          "label": "225"
+        },
+        {
+          "value": 300.0,
+          "kind": "g",
+          "label": "300"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Knäckebrot",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Scheiben"
+        },
+        {
+          "value": 4.0,
+          "kind": "piece",
+          "label": "4 Scheiben"
+        },
+        {
+          "value": 6.0,
+          "kind": "piece",
+          "label": "6 Scheiben"
+        },
+        {
+          "value": 8.0,
+          "kind": "piece",
+          "label": "8 Scheiben"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Mais",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": "Kann auch Plants-Anteil beitragen; hier als stärkere Stärkequelle geführt"
+    },
+    {
+      "name": "Maiswaffeln",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Stück"
+        },
+        {
+          "value": 4.0,
+          "kind": "piece",
+          "label": "4 Stück"
+        },
+        {
+          "value": 6.0,
+          "kind": "piece",
+          "label": "6 Stück"
+        },
+        {
+          "value": 8.0,
+          "kind": "piece",
+          "label": "8 Stück"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Mischbrot",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Scheibe"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Scheiben"
+        },
+        {
+          "value": 3.0,
+          "kind": "piece",
+          "label": "3 Scheiben"
+        },
+        {
+          "value": 4.0,
+          "kind": "piece",
+          "label": "4 Scheiben"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Müsli ungesüßt",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        },
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 80.0,
+          "kind": "g",
+          "label": "80"
+        }
+      ],
+      "reference": "g",
+      "state": "trocken",
+      "note": ""
+    },
+    {
+      "name": "Nudeln",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Pastinake",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 180.0,
+          "kind": "g",
+          "label": "180"
+        },
+        {
+          "value": 240.0,
+          "kind": "g",
+          "label": "240"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Pita",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": null,
+          "kind": "text",
+          "label": "½ Pita"
+        },
+        {
+          "value": null,
+          "kind": "text",
+          "label": "1 Pita"
+        },
+        {
+          "value": null,
+          "kind": "text",
+          "label": "1½ Pita"
+        },
+        {
+          "value": null,
+          "kind": "text",
+          "label": "2 Pita"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Polenta gekocht",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Quinoa",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Reis Vollkorn",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Reis weiß",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Reisnudeln",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Reiswaffeln",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Stück"
+        },
+        {
+          "value": 4.0,
+          "kind": "piece",
+          "label": "4 Stück"
+        },
+        {
+          "value": 6.0,
+          "kind": "piece",
+          "label": "6 Stück"
+        },
+        {
+          "value": 8.0,
+          "kind": "piece",
+          "label": "8 Stück"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Risotto",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Roggenbrot",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Scheibe"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Scheiben"
+        },
+        {
+          "value": 3.0,
+          "kind": "piece",
+          "label": "3 Scheiben"
+        },
+        {
+          "value": 4.0,
+          "kind": "piece",
+          "label": "4 Scheiben"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Spätzle",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Süßkartoffel",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        },
+        {
+          "value": 180.0,
+          "kind": "g",
+          "label": "180"
+        },
+        {
+          "value": 240.0,
+          "kind": "g",
+          "label": "240"
+        }
+      ],
+      "reference": "g",
+      "state": "gegart",
+      "note": ""
+    },
+    {
+      "name": "Toast",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Scheibe"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Scheiben"
+        },
+        {
+          "value": 3.0,
+          "kind": "piece",
+          "label": "3 Scheiben"
+        },
+        {
+          "value": 4.0,
+          "kind": "piece",
+          "label": "4 Scheiben"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Vollkornbrot",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Scheibe"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Scheiben"
+        },
+        {
+          "value": 3.0,
+          "kind": "piece",
+          "label": "3 Scheiben"
+        },
+        {
+          "value": 4.0,
+          "kind": "piece",
+          "label": "4 Scheiben"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Vollkornbrötchen",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 0.5,
+          "kind": "piece",
+          "label": "½ Brötchen"
+        },
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Brötchen"
+        },
+        {
+          "value": 1.5,
+          "kind": "piece",
+          "label": "1½ Brötchen"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Brötchen"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Vollkornnudeln",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Vollkorntoast",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Scheibe"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Scheiben"
+        },
+        {
+          "value": 3.0,
+          "kind": "piece",
+          "label": "3 Scheiben"
+        },
+        {
+          "value": 4.0,
+          "kind": "piece",
+          "label": "4 Scheiben"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Wildreis-Mix",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 50.0,
+          "kind": "g",
+          "label": "50"
+        },
+        {
+          "value": 100.0,
+          "kind": "g",
+          "label": "100"
+        },
+        {
+          "value": 150.0,
+          "kind": "g",
+          "label": "150"
+        },
+        {
+          "value": 200.0,
+          "kind": "g",
+          "label": "200"
+        }
+      ],
+      "reference": "g",
+      "state": "gekocht",
+      "note": ""
+    },
+    {
+      "name": "Wrap/Tortilla",
+      "category": "Carbs",
+      "unit": "Spoony",
+      "amounts": [
+        {
+          "value": 0.5,
+          "kind": "piece",
+          "label": "½ Wrap"
+        },
+        {
+          "value": 1.0,
+          "kind": "piece",
+          "label": "1 Wrap"
+        },
+        {
+          "value": 1.5,
+          "kind": "piece",
+          "label": "1½ Wraps"
+        },
+        {
+          "value": 2.0,
+          "kind": "piece",
+          "label": "2 Wraps"
+        }
+      ],
+      "reference": "Stück/Portion",
+      "state": "Stück",
+      "note": ""
+    },
+    {
+      "name": "Aioli",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Avocado",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 60.0,
+          "kind": "g",
+          "label": "60"
+        },
+        {
+          "value": 90.0,
+          "kind": "g",
+          "label": "90"
+        },
+        {
+          "value": 120.0,
+          "kind": "g",
+          "label": "120"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": "Kann gleichzeitig als Plant wahrgenommen werden; für Mengensteuerung hier primär Fett"
+    },
+    {
+      "name": "Brie",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": "liefert auch Protein; in Spoony je nach Mahlzeit ggf. Mischrolle"
+    },
+    {
+      "name": "Butter",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 5.0,
+          "kind": "g",
+          "label": "5"
+        },
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 15.0,
+          "kind": "g",
+          "label": "15"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Camembert",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": "liefert auch Protein; in Spoony je nach Mahlzeit ggf. Mischrolle"
+    },
+    {
+      "name": "Cashewmus",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Cashews",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Cheddar",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": "liefert auch Protein; in Spoony je nach Mahlzeit ggf. Mischrolle"
+    },
+    {
+      "name": "Chiasamen",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Crème fraîche",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Emmentaler",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": "liefert auch Protein; in Spoony je nach Mahlzeit ggf. Mischrolle"
+    },
+    {
+      "name": "Erdnussmus",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Erdnüsse",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Feta",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": "liefert auch Protein; in Spoony je nach Mahlzeit ggf. Mischrolle"
+    },
+    {
+      "name": "Frischkäse vollfett",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Ghee",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 5.0,
+          "kind": "g",
+          "label": "5"
+        },
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 15.0,
+          "kind": "g",
+          "label": "15"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Gouda",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": "liefert auch Protein; in Spoony je nach Mahlzeit ggf. Mischrolle"
+    },
+    {
+      "name": "Hanfsamen",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Haselnüsse",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Kokosmilch vollfett",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Kokosöl",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 5.0,
+          "kind": "g",
+          "label": "5"
+        },
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 15.0,
+          "kind": "g",
+          "label": "15"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Kürbiskerne",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Leinsamen",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Leinöl",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 5.0,
+          "kind": "g",
+          "label": "5"
+        },
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 15.0,
+          "kind": "g",
+          "label": "15"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Macadamia",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Mandelmus",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Mandeln",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Margarine",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 5.0,
+          "kind": "g",
+          "label": "5"
+        },
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 15.0,
+          "kind": "g",
+          "label": "15"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Mascarpone",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Mayonnaise",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Mozzarella",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": "liefert auch Protein; in Spoony je nach Mahlzeit ggf. Mischrolle"
+    },
+    {
+      "name": "Olivenöl",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 5.0,
+          "kind": "g",
+          "label": "5"
+        },
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 15.0,
+          "kind": "g",
+          "label": "15"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Paranüsse",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Parmesan",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": "liefert auch Protein; in Spoony je nach Mahlzeit ggf. Mischrolle"
+    },
+    {
+      "name": "Pekannüsse",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Pesto",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Pistazien",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Rapsöl",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 5.0,
+          "kind": "g",
+          "label": "5"
+        },
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 15.0,
+          "kind": "g",
+          "label": "15"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Sahne",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Schmand",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Sesam",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Sonnenblumenkerne",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Sonnenblumenöl",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 5.0,
+          "kind": "g",
+          "label": "5"
+        },
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 15.0,
+          "kind": "g",
+          "label": "15"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Tahini",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Walnüsse",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": ""
+    },
+    {
+      "name": "Ziegenkäse",
+      "category": "Fat",
+      "unit": "Teaspoony",
+      "amounts": [
+        {
+          "value": 10.0,
+          "kind": "g",
+          "label": "10"
+        },
+        {
+          "value": 20.0,
+          "kind": "g",
+          "label": "20"
+        },
+        {
+          "value": 30.0,
+          "kind": "g",
+          "label": "30"
+        },
+        {
+          "value": 40.0,
+          "kind": "g",
+          "label": "40"
+        }
+      ],
+      "reference": "g",
+      "state": "verzehrfertig",
+      "note": "liefert auch Protein; in Spoony je nach Mahlzeit ggf. Mischrolle"
+    }
+  ]
+}
